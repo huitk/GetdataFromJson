@@ -1,5 +1,4 @@
 /*
-Tongjit Karawapornphut G01221230
 https://jsonplaceholder.typicode.com/posts
 */
 
